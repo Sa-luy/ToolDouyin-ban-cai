@@ -27,6 +27,25 @@ Mỗi kênh TikTok gắn 1 thư mục; bỏ video vào (kèm file `.txt` cùng t
 - Điều khiển và nhận báo cáo từng bước qua **Telegram bot** trên điện thoại.
 - **Tự cập nhật**: có bản mới, tool tự tải và cài khi rảnh, rồi báo qua Telegram.
 
+## Hình ảnh giao diện
+
+**Màn hình chính**: tiến độ từng bước (chưa làm → đã tải → đã lồng tiếng → đã biên tập → đã đăng), danh sách video
+của từng kênh, xem trước video và nơi đăng theo ngôn ngữ.
+
+![Màn hình chính](images/giao-dien-chinh.png)
+
+**Nhật ký**: báo từng bước đang làm (tải lên, điền mô tả, đăng xong, dọn file...).
+
+![Nhật ký](images/nhat-ky.png)
+
+**Kênh Douyin**: dán link kênh để tool lấy danh sách video và tự theo dõi video mới.
+
+![Kênh Douyin](images/kenh-douyin.png)
+
+**Nơi đăng**: kết nối nhiều Fanpage Facebook và tài khoản TikTok (mỗi tài khoản TikTok có thể dùng proxy riêng).
+
+![Nơi đăng](images/noi-dang.png)
+
 ## Yêu cầu
 - Windows 10 / 11 (64-bit), có Microsoft Edge (Windows có sẵn), kết nối mạng.
 - Ổ cứng trống vài chục GB (video tạm + model AI ~1.6 GB tải tự động ở lần lồng tiếng đầu tiên).
